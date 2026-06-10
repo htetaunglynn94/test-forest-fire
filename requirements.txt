@@ -1,7 +1,5 @@
 Flask
-numpy
+numpy 
 pandas
-matplotlib
-seaborn
-scipy
 scikit-learn
+
